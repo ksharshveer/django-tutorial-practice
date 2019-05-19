@@ -2,3 +2,9 @@ li a {
 	color: green;
 }
 
+body {
+	background-image: url("images/background.JPEG");
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
